@@ -57,7 +57,7 @@ window.onload = function() {
                 }, Math.floor(Math.random() * 500) + 2500);
             }
         }
-
+        
     } else {
 
         if ((window.location.pathname === '/resale/item/detail')) {
