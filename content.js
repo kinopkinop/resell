@@ -77,7 +77,7 @@ window.onload = function() {
             }
         }
     }
-    
+
     if (window.location.hostname === 'ticket.pia.jp') {
         document.querySelectorAll("div.cnt a")[0].click()
     }
